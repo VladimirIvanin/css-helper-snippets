@@ -1,6 +1,7 @@
 '.source.sass, .source.css.sass, .source.css, .source.css.liquid, .source.scss.liquid, .source.scss, .source.css.scss, .source.less, .source.css.less':
-  'comment block':
-    'prefix': '/*'
+  'after inline-block':
+    'prefix': 'afterinbl'
     'body': """
-    /** ${1} */
+      content: '';
+      display: inline-block;
     """
