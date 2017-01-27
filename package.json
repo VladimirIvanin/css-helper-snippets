@@ -1,0 +1,23 @@
+{
+  "name": "css-helper-snippets",
+  "version": "0.0.0",
+  "description": "css-helper-snippets",
+  "keywords": [
+    "liquid",
+    "insales"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladimirIvanin/css-helper-snippets.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {},
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/VladimirIvanin/css-helper-snippets/issues"
+  },
+  "homepage": "https://github.com/VladimirIvanin/css-helper-snippets#readme"
+}

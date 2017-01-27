@@ -1,0 +1,14 @@
+'.source.sass, .source.css.sass, .source.css, .source.css.liquid, .source.scss.liquid, .source.scss, .source.css.scss, .source.less, .source.css.less':
+  'clearfix after':
+    'prefix': 'clearfixafter'
+    'body': """
+    content: "";
+    display: block;
+    clear: both;
+    height: 0;
+    font-size: 0;
+    line-height: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    """

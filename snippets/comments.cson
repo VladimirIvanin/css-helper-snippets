@@ -1,0 +1,6 @@
+'.source.sass, .source.css.sass, .source.css, .source.css.liquid, .source.scss.liquid, .source.scss, .source.css.scss, .source.less, .source.css.less':
+  'comment block':
+    'prefix': '/*'
+    'body': """
+    /** ${1} */
+    """

@@ -1,0 +1,7 @@
+'.source.sass, .source.css.sass, .source.css, .source.css.liquid, .source.scss.liquid, .source.scss, .source.css.scss, .source.less, .source.css.less':
+  'inline-block middle':
+    'prefix': 'dibvm'
+    'body': """
+      display: inline-block;
+      vertical-align: middle;
+    """

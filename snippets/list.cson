@@ -1,0 +1,8 @@
+'.source.sass, .source.css.sass, .source.css, .source.css.liquid, .source.scss.liquid, .source.scss, .source.css.scss, .source.less, .source.css.less':
+  'list-unstyled':
+    'prefix': 'listunstyled'
+    'body': """
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    """
